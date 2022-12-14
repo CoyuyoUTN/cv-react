@@ -7,14 +7,13 @@ const SideBar = () => {
         <img className="profile" src={Image} alt="" />
         <h1 className="name">Gonzalo Herrero</h1>
         <h3 className="tagline">University technician in programming </h3>
-        <h3 className="tagline">(Técnico universitario en programacion) </h3>
       </div>
 
       <div className="contact-container container-block">
         <ul className="list-unstyled contact-list">
           <li className="email">
             <a href="mailto: gonzaloherrero2@email.com">
-              <i className="fa-solid fa-envelope"></i> gonzaloherrero2@email.com
+              <i className="fa-solid fa-envelope"></i> gonzaloherrero2@gmail.com
             </a>
           </li>
           <li className="phone">
@@ -22,8 +21,9 @@ const SideBar = () => {
             <a href="tel:0223-5044992"> 0223-5044992</a>
           </li>
           <li className="website">
-            <a href="https://coyuyoutn.github.io/" target="_blank">
-              <i className="fa-solid fa-globe"></i> https://coyuyoutn.github.io/
+            <a href="portfolio-gonzaloherrero.netlify.app" target="_blank">
+              <i className="fa-solid fa-globe"></i>{" "}
+              portfolio-gonzaloherrero.netlify.app
             </a>
           </li>
           <li className="linkedin">
@@ -58,7 +58,7 @@ const SideBar = () => {
         <div className="item">
           <h4 className="degree">React developer</h4>
           <h5 className="meta">Avalith</h5>
-          <div className="time">2022 - Currently</div>
+          <div className="time">Jul 2022 - Nov 2022</div>
         </div>
       </div>
 
@@ -70,6 +70,25 @@ const SideBar = () => {
           </li>
           <li>
             Spanish <span className="lang-desc">(Native)</span>
+          </li>
+        </ul>
+      </div>
+      <div className="interests-container container-block">
+        <h2 className="container-block-title">Certification</h2>
+        <ul className="list-unstyled interests-list">
+          <li>
+            Certificate in the foundations of Scrum
+            <br />
+            <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=871388">
+              Certificate link
+            </a>
+          </li>
+          <li>
+            Introduction to programming with javascript
+            <br />
+            <a href="https://www.udemy.com/certificate/UC-54361bb5-6f43-41b6-8bbe-4942c57d2117/">
+              Certificate link
+            </a>
           </li>
         </ul>
       </div>

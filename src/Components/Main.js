@@ -135,24 +135,49 @@ const Main = () => {
           </span>
           <span className="project-tagline">
             <ul>
-              <li>
-                Project dedicated to the data sample through APIS consumption.
-              </li>
+              <li>Project dedicated to the implementation of an E-commerce</li>
               <li>Use of Axios for the consumption of APIs.</li>
               <li>
-                Data sample using bootstrap in the form of table and cards with
-                pagination.
+                Data sample using bootstrap and Ant Design in the form of table
+                and cards with pagination.
               </li>
               <li>
                 Data management through the use of React Router for data
                 management through components.
+              </li>
+              <li>
+                Use of the react toolkit and useContext tools to manage
+                information within the program.
+              </li>
+            </ul>
+          </span>
+        </div>
+        <div className="item">
+          <span className="project-title">
+            <h3>React project - Freelancer</h3>
+          </span>
+          <span className="project-tagline">
+            <ul>
+              <li>
+                Project dedicated to the realization of a web page for a laundry
+              </li>
+              <li>
+                Use of Kanban as an agile methodology and meetings with the
+                client for the correct assembly of the project
+              </li>
+              <li>Use of bootstrap and Ant design</li>
+              <li>Use of react router dom for page routing</li>
+              <li>Use of github for the correct control of the project</li>
+              <li>
+                Use of pure css and animation library to give style to the page.
               </li>
             </ul>
           </span>
         </div>
         <center>
           <h5>
-            For more information visit my portfolio https://coyuyoutn.github.io/
+            For more information visit my portfolio
+            portfolio-gonzaloherrero.netlify.app
           </h5>
         </center>
       </section>
@@ -250,6 +275,20 @@ const Main = () => {
 
           <div className="item">
             <h3 className="level-title">MySQL</h3>
+            <div className="progress level-bar">
+              <div
+                className="progress-bar theme-progress-bar"
+                role="progressbar"
+                style={{ width: "60%" }}
+                aria-valuenow="60"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              ></div>
+            </div>
+          </div>
+
+          <div className="item">
+            <h3 className="level-title">Bootstrap</h3>
             <div className="progress level-bar">
               <div
                 className="progress-bar theme-progress-bar"
