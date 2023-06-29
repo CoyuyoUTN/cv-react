@@ -10,17 +10,17 @@ const Main = () => {
         </h2>
         <div className="summary">
           <p>
-            I am a University Technician in Programming having graduated from
-            the UTN of Mar del Plata corresponding to the career of "University
-            Technician in Programming". I made a Supervised Professional
-            Practice (PPS) in the Infosis company of 200 hours duration where I
-            was trained in the workplace and development in Java. I have
-            knowledge of various languages ​​like C, Java, PHP and Javascript.
-            Layout using HTML, CSS and Bootstrap and also data persistence using
-            relational database with MySQL. I am also trained in the use of Git
-            - Github and the use of agile methodologies such as SCRUM and
-            Kanban. I am currently training in React in a SkillFactory in the
-            company Avalith.
+            I am a University Degree in Technical Programming having graduated
+            from the UTN of Mar del Plata corresponding to the career of
+            "University Technician in Programming". I made a Supervised
+            Professional Practice (PPS) in the Infosis company of 200 hours
+            duration where I was trained in the workplace and development in
+            Java. I have knowledge of various languages ​​like C, Java, PHP and
+            Javascript. Layout using HTML, CSS and Bootstrap and also data
+            persistence using relational database with MySQL. I am also trained
+            in the use of Git - Github and the use of agile methodologies such
+            as SCRUM and Kanban. I am currently training in React in a
+            SkillFactory in the company Avalith.
           </p>
         </div>
       </section>
@@ -246,7 +246,7 @@ const Main = () => {
           </div>
 
           <div className="item">
-            <h3 className="level-title">PHP</h3>
+            <h3 className="level-title">PHP-Laravel</h3>
             <div className="progress level-bar">
               <div
                 className="progress-bar theme-progress-bar"

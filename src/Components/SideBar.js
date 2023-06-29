@@ -6,7 +6,7 @@ const SideBar = () => {
       <div className="profile-container">
         <img className="profile" src={Image} alt="" />
         <h1 className="name">Gonzalo Herrero</h1>
-        <h3 className="tagline">University technician in programming </h3>
+        <h3 className="tagline">University Degree in Technical Programming </h3>
       </div>
 
       <div className="contact-container container-block">
@@ -22,8 +22,7 @@ const SideBar = () => {
           </li>
           <li className="website">
             <a href="portfolio-gonzaloherrero.netlify.app" target="_blank">
-              <i className="fa-solid fa-globe"></i>{" "}
-              portfolio-gonzaloherrero.netlify.app
+              <i className="fa-solid fa-globe"></i> Mi Portafolio
             </a>
           </li>
           <li className="linkedin">
@@ -31,19 +30,12 @@ const SideBar = () => {
               href="https://www.linkedin.com/in/herrerogonzalo/"
               target="_blank"
             >
-              <i className="fa-brands fa-linkedin-in"></i>{" "}
-              linkedin.com/in/herrerogonzalo/
+              <i className="fa-brands fa-linkedin-in"></i> linkedin
             </a>
           </li>
           <li className="github">
             <a href="https://github.com/CoyuyoUTN" target="_blank">
-              <i className="fa-brands fa-github"></i> github.com/CoyuyoUTN
-            </a>
-          </li>
-          <li className="twitter">
-            <a href="https://twitter.com/Coyuyo123123123" target="_blank">
-              <i className="fa-brands fa-twitter"></i>{" "}
-              twitter.com/Coyuyo123123123
+              <i className="fa-brands fa-github"></i> Mi Github
             </a>
           </li>
         </ul>
@@ -51,7 +43,7 @@ const SideBar = () => {
       <div className="education-container container-block">
         <h2 className="container-block-title">Education</h2>
         <div className="item">
-          <h4 className="degree">University technician in programming</h4>
+          <h4 className="degree">University Degree in Technical Programming</h4>
           <h5 className="meta">UTN, Mar del Plata</h5>
           <div className="time">2015 - 2022</div>
         </div>
