@@ -29,12 +29,17 @@ const SideBar = () => {
             <a
               href="https://www.linkedin.com/in/herrerogonzalo/"
               target="_blank"
+              rel="noreferrer"
             >
               <i className="fa-brands fa-linkedin-in"></i> linkedin
             </a>
           </li>
           <li className="github">
-            <a href="https://github.com/CoyuyoUTN" target="_blank">
+            <a
+              href="https://github.com/CoyuyoUTN"
+              target="_blank"
+              rel="noreferrer"
+            >
               <i className="fa-brands fa-github"></i> Mi Github
             </a>
           </li>
