@@ -21,7 +21,11 @@ const SideBar = () => {
             <a href="tel:0223-5044992"> 0223-5044992</a>
           </li>
           <li className="website">
-            <a href="portfolio-gonzaloherrero.netlify.app" target="_blank">
+            <a
+              href="https://portfolio-gonzaloherrero.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <i className="fa-solid fa-globe"></i> Mi Portafolio
             </a>
           </li>
