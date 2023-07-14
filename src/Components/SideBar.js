@@ -12,7 +12,7 @@ const SideBar = () => {
       <div className="contact-container container-block">
         <ul className="list-unstyled contact-list">
           <li className="email">
-            <a href="mailto: gonzaloherrero2@email.com">
+            <a href="mailto: gonzaloherrero2@gmail.com">
               <i className="fa-solid fa-envelope"></i> gonzaloherrero2@gmail.com
             </a>
           </li>
