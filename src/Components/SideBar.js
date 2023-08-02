@@ -12,7 +12,7 @@ const SideBar = () => {
       <div className="contact-container container-block">
         <ul className="list-unstyled contact-list">
           <li className="email">
-            <a href="mailto: gonzaloherrero2@gmail.com">
+            <a href="">
               <i className="fa-solid fa-envelope"></i> gonzaloherrero2@gmail.com
             </a>
           </li>
@@ -22,7 +22,7 @@ const SideBar = () => {
           </li>
           <li className="website">
             <a
-              href="https://portfolio-gonzaloherrero.netlify.app/"
+              href="https://gonzaherrero-portfolio.netlify.app/"
               target="_blank"
               rel="noreferrer"
             >
