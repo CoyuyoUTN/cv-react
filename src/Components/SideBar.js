@@ -26,7 +26,7 @@ const SideBar = () => {
               target="_blank"
               rel="noreferrer"
             >
-              <i className="fa-solid fa-globe"></i> Mi Portafolio
+              <i className="fa-solid fa-globe"></i> My portfolio
             </a>
           </li>
           <li className="linkedin">
@@ -44,7 +44,7 @@ const SideBar = () => {
               target="_blank"
               rel="noreferrer"
             >
-              <i className="fa-brands fa-github"></i> Mi Github
+              <i className="fa-brands fa-github"></i> My Github
             </a>
           </li>
         </ul>

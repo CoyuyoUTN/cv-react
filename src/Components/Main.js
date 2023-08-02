@@ -177,7 +177,9 @@ const Main = () => {
         <center>
           <h5>
             For more information visit my portfolio
-            portfolio-gonzaloherrero.netlify.app
+            <a href="https://gonzaherrero-portfolio.netlify.app/">
+              My Portfolio
+            </a>
           </h5>
         </center>
       </section>
